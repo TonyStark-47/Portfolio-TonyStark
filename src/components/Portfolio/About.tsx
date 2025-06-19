@@ -32,7 +32,7 @@ export function About() {
             <div className="relative">
               <div className="w-full h-96 bg-gradient-to-br from-yellow-400/20 to-blue-500/20 rounded-lg overflow-hidden">
                 <img
-                  src="./public/tony_image.jpg"
+                  src="/tony_image.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
